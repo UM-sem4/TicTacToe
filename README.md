@@ -21,6 +21,10 @@ Winner screen:
 
 ![img.png](resources/img_winner.png)
 
+Draw screen:
+
+![img.png](resources/img_draw.png)
+
 ## Features
 
 - Player vs Player gameplay
