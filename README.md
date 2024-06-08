@@ -10,6 +10,17 @@ This is a simple Tic-Tac-Toe game built using Pygame. The game allows two player
 - [Usage](#usage)
 - [Gameplay](#gameplay)
 
+
+## Game Screens
+
+Normal game screen:
+
+![img.png](resources/img.png)
+
+Winner screen:
+
+![img.png](resources/img_winner.png)
+
 ## Features
 
 - Player vs Player gameplay
